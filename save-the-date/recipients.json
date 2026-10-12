@@ -1,0 +1,1218 @@
+[
+ {
+  "rank": 1,
+  "greeting": "Dear Ms. Emery-Hunter,",
+  "to": "Leh@tshikululu.org.za",
+  "cc": "",
+  "name": "Leanne Emery-Hunter",
+  "batch": 1
+ },
+ {
+  "rank": 2,
+  "greeting": "Dear Ms. Thomas,",
+  "to": "meenat@moshalprogram.org",
+  "cc": "jjohn@masthead.co.za",
+  "name": "Meena Thomas",
+  "batch": 1
+ },
+ {
+  "rank": 3,
+  "greeting": "Dear Mr. Zulu,",
+  "to": "nzulu9@oldmutual.com",
+  "cc": "",
+  "name": "Ndumiso Zulu",
+  "batch": 1
+ },
+ {
+  "rank": 4,
+  "greeting": "Dear Ms. Abrahams,",
+  "to": "angela.abrahams@vodacom.co.za",
+  "cc": "",
+  "name": "Angela Abrahams",
+  "batch": 1
+ },
+ {
+  "rank": 5,
+  "greeting": "Dear Mr. Mukhuvha,",
+  "to": "foundation@mtn.com",
+  "cc": "",
+  "name": "Arthur Mukhuvha",
+  "batch": 1
+ },
+ {
+  "rank": 6,
+  "greeting": "Dear Mr. Mathebula,",
+  "to": "nathi.kumalo@sasol.com",
+  "cc": "",
+  "name": "Tshamani Mathebula",
+  "batch": 1
+ },
+ {
+  "rank": 7,
+  "greeting": "Dear Mr. Absolom,",
+  "to": "foundation@thetigerbrandsfoundation.com",
+  "cc": "",
+  "name": "Eugene Absolom",
+  "batch": 1
+ },
+ {
+  "rank": 8,
+  "greeting": "Dear Ms. Seboni,",
+  "to": "infoppsfoundation@pps.co.za",
+  "cc": "",
+  "name": "Ayanda Seboni",
+  "batch": 1
+ },
+ {
+  "rank": 9,
+  "greeting": "Dear Ms. Maboya,",
+  "to": "mmaboya@cyrilramaphosa.org",
+  "cc": "",
+  "name": "Mmabatho Maboya",
+  "batch": 1
+ },
+ {
+  "rank": 10,
+  "greeting": "Dear Ms. Bokaba,",
+  "to": "tshego.Bokaba@mmltd.co.za",
+  "cc": "",
+  "name": "Tshego Bokaba",
+  "batch": 1
+ },
+ {
+  "rank": 11,
+  "greeting": "Dear Ms. Bates,",
+  "to": "gill@sa-pf.org.za",
+  "cc": "",
+  "name": "Gill Bates",
+  "batch": 1
+ },
+ {
+  "rank": 12,
+  "greeting": "Dear Ms. Evans,",
+  "to": "sabfoundation@za.ab-inbev.com",
+  "cc": "",
+  "name": "Bridgit Evans",
+  "batch": 1
+ },
+ {
+  "rank": 13,
+  "greeting": "Dear Ms. Moffat,",
+  "to": "tcupido@elmaphilanthropies.org",
+  "cc": "",
+  "name": "Bernadette Moffat",
+  "batch": 1
+ },
+ {
+  "rank": 15,
+  "greeting": "Dear Ms. Samuel,",
+  "to": "johan.theron@implats.co.za",
+  "cc": "",
+  "name": "Lee-Ann Samuel",
+  "batch": 1
+ },
+ {
+  "rank": 16,
+  "greeting": "Dear Ms. Stoole,",
+  "to": "charlotte.stoole@arm.co.za",
+  "cc": "",
+  "name": "Charlotte Stoole",
+  "batch": 1
+ },
+ {
+  "rank": 17,
+  "greeting": "Dear Ms. Tyira,",
+  "to": "tshegofatso.tyira@arm.co.za",
+  "cc": "",
+  "name": "Tshegofatso Tyira",
+  "batch": 1
+ },
+ {
+  "rank": 18,
+  "greeting": "Dear Ms. Mutimutema,",
+  "to": "za-addhope@yum.com",
+  "cc": "",
+  "name": "Emmah Mutimutema",
+  "batch": 1
+ },
+ {
+  "rank": 19,
+  "greeting": "Dear Ms. Molefe,",
+  "to": "csi@idc.co.za",
+  "cc": "",
+  "name": "Tebogo Molefe",
+  "batch": 1
+ },
+ {
+  "rank": 20,
+  "greeting": "Dear Ms. Sidzumo,",
+  "to": "v.sidzumo@fordfoundation.org",
+  "cc": "",
+  "name": "Vuyiswa Sidzumo",
+  "batch": 1
+ },
+ {
+  "rank": 21,
+  "greeting": "Dear Mr. Mooideen,",
+  "to": "anwar.mooideen@pnp.co.za",
+  "cc": "",
+  "name": "Anwar Mooideen",
+  "batch": 1
+ },
+ {
+  "rank": 22,
+  "greeting": "Dear Mr. Mxo,",
+  "to": "chuma.mxo@rompco1.com",
+  "cc": "",
+  "name": "Chuma Mxo",
+  "batch": 1
+ },
+ {
+  "rank": 23,
+  "greeting": "Dear Ms. Moodley,",
+  "to": "LeelaMoodley@capitecbank.co.za",
+  "cc": "",
+  "name": "Leela Moodley",
+  "batch": 1
+ },
+ {
+  "rank": 24,
+  "greeting": "Dear Ms. Lange,",
+  "to": "nobuntu.lange@vwsa.co.za",
+  "cc": "",
+  "name": "Nobuntu Lange",
+  "batch": 1
+ },
+ {
+  "rank": 25,
+  "greeting": "Dear Ms. Matjila,",
+  "to": "nomaxabiso.matjila@liberty.co.za",
+  "cc": "",
+  "name": "Nomaxabiso Matjila",
+  "batch": 1
+ },
+ {
+  "rank": 26,
+  "greeting": "Dear Ms. Nkuna-Shai,",
+  "to": "andiswam@sasria.co.za",
+  "cc": "",
+  "name": "Shyless Nkuna-Shai",
+  "batch": 1
+ },
+ {
+  "rank": 27,
+  "greeting": "Dear Ms. Mandane,",
+  "to": "ir@datatec.com",
+  "cc": "",
+  "name": "Thabile Mandane",
+  "batch": 1
+ },
+ {
+  "rank": 28,
+  "greeting": "Dear Ms. Arendse,",
+  "to": "CONTACT@BERTHAFOUNDATION.ORG",
+  "cc": "",
+  "name": "Megan Arendse",
+  "batch": 1
+ },
+ {
+  "rank": 29,
+  "greeting": "Dear Ms. Elster,",
+  "to": "info@raith.org.za",
+  "cc": "",
+  "name": "Audrey Elster",
+  "batch": 1
+ },
+ {
+  "rank": 30,
+  "greeting": "Dear Mr. Keevy,",
+  "to": "james@jet.org.za",
+  "cc": "",
+  "name": "James Keevy",
+  "batch": 1
+ },
+ {
+  "rank": 31,
+  "greeting": "Dear Mr. Sayed,",
+  "to": "Dulegang.malapane@oceana.co.za",
+  "cc": "",
+  "name": "Ali Sayed",
+  "batch": 1
+ },
+ {
+  "rank": 33,
+  "greeting": "Dear Ms. Mdunge,",
+  "to": "csi@santam.co.za",
+  "cc": "",
+  "name": "Tersia Mdunge",
+  "batch": 1
+ },
+ {
+  "rank": 35,
+  "greeting": "Dear Mr. Duvenhage,",
+  "to": "Werner.duwenhage@riotinto.com",
+  "cc": "",
+  "name": "Werner Duvenhage",
+  "batch": 1
+ },
+ {
+  "rank": 36,
+  "greeting": "Dear Mr. Speirs,",
+  "to": "csi@jse.co.za",
+  "cc": "",
+  "name": "Ralph Speirs",
+  "batch": 1
+ },
+ {
+  "rank": 38,
+  "greeting": "Dear Ms. Kanengoni,",
+  "to": "akanengoni@southernafricatrust.org",
+  "cc": "",
+  "name": "Alice Kanengoni",
+  "batch": 1
+ },
+ {
+  "rank": 39,
+  "greeting": "Dear Ms. Harding,",
+  "to": "joanne@scat.org.za",
+  "cc": "",
+  "name": "Dr Joanne Harding",
+  "batch": 1
+ },
+ {
+  "rank": 40,
+  "greeting": "Dear Ms. Moodley,",
+  "to": "info@dbsa.org",
+  "cc": "",
+  "name": "Edeshri Moodley",
+  "batch": 1
+ },
+ {
+  "rank": 41,
+  "greeting": "Dear Ms. Driver,",
+  "to": "louise@ipa-sa.org.za",
+  "cc": "",
+  "name": "Louise Driver",
+  "batch": 1
+ },
+ {
+  "rank": 42,
+  "greeting": "Dear Ms. Spencer,",
+  "to": "mspencer@cyrilramaphosa.org",
+  "cc": "",
+  "name": "Melanie Spencer",
+  "batch": 1
+ },
+ {
+  "rank": 43,
+  "greeting": "Dear Ms. Vereen,",
+  "to": "nathalie@jet.org.za",
+  "cc": "",
+  "name": "Nathalie Vereen",
+  "batch": 1
+ },
+ {
+  "rank": 44,
+  "greeting": "Dear Ms. Mabidilala,",
+  "to": "info@enziafrica.co.za",
+  "cc": "",
+  "name": "Palesa Mabidilala",
+  "batch": 1
+ },
+ {
+  "rank": 45,
+  "greeting": "Dear Ms. Munshi,",
+  "to": "Sameera.munshi@angloamerican.com",
+  "cc": "",
+  "name": "Sameera Munshi",
+  "batch": 1
+ },
+ {
+  "rank": 46,
+  "greeting": "Dear Ms. dos Santos,",
+  "to": "jacquie.Howard@investec.co.za",
+  "cc": "",
+  "name": "Tanya dos Santos",
+  "batch": 1
+ },
+ {
+  "rank": 47,
+  "greeting": "Dear Mr. Frankel,",
+  "to": "billfrankel@kayacomm.com",
+  "cc": "",
+  "name": "Bill Frankel",
+  "batch": 1
+ },
+ {
+  "rank": 48,
+  "greeting": "Dear Ms. Reuben,",
+  "to": "Natasha_Reuben@DellTeam.com",
+  "cc": "jjohn@masthead.co.za",
+  "name": "Natasha Reuben",
+  "batch": 1
+ },
+ {
+  "rank": 49,
+  "greeting": "Dear Ms. Mabuya,",
+  "to": "sustainability@discovery.co.za",
+  "cc": "",
+  "name": "Andronica Mabuya",
+  "batch": 1
+ },
+ {
+  "rank": 50,
+  "greeting": "Dear Ms. Kuhlase,",
+  "to": "admin@cmwl.co.za",
+  "cc": "",
+  "name": "Fikile Kuhlase",
+  "batch": 1
+ },
+ {
+  "rank": 51,
+  "greeting": "Dear Ms. Kahlberg,",
+  "to": "foundation@dischem.co.za",
+  "cc": "",
+  "name": "Jacqueline Kahlberg",
+  "batch": 1
+ },
+ {
+  "rank": 52,
+  "greeting": "Dear Ms. Gugushe,",
+  "to": "social.investing@firstrand.co.za",
+  "cc": "",
+  "name": "Konehali Gugushe",
+  "batch": 1
+ },
+ {
+  "rank": 53,
+  "greeting": "Dear Ms. Modise,",
+  "to": "mmodise@shoprite.co.za",
+  "cc": "",
+  "name": "Maude Modise",
+  "batch": 1
+ },
+ {
+  "rank": 54,
+  "greeting": "Dear Ms. Naicker,",
+  "to": "LeelaMoodley@capitecbank.co.za",
+  "cc": "",
+  "name": "Mischkha Naicker",
+  "batch": 1
+ },
+ {
+  "rank": 55,
+  "greeting": "Dear Dr. Pule,",
+  "to": "molefe.pule@naspers.com",
+  "cc": "",
+  "name": "Molefe I. Pule",
+  "batch": 1
+ },
+ {
+  "rank": 56,
+  "greeting": "Dear Ms. Govender,",
+  "to": "enquiries@ninetyone.com",
+  "cc": "",
+  "name": "Narassa Govender",
+  "batch": 1
+ },
+ {
+  "rank": 57,
+  "greeting": "Dear Mr. Pillay,",
+  "to": "groupstrategysustainability@nedbank.co.za",
+  "cc": "",
+  "name": "Poovi Pillay",
+  "batch": 1
+ },
+ {
+  "rank": 58,
+  "greeting": "Dear Ms. Sedres,",
+  "to": "sanlamfoundation@sanlam.co.za",
+  "cc": "",
+  "name": "Ray-Ann Sedres",
+  "batch": 1
+ },
+ {
+  "rank": 59,
+  "greeting": "Dear Mr. Raghubir,",
+  "to": "sraghubir@shopriteholdings.co.za",
+  "cc": "",
+  "name": "Sanjeev Raghubir",
+  "batch": 1
+ },
+ {
+  "rank": 60,
+  "greeting": "Dear Ms. Morley,",
+  "to": "media@tfg.co.za",
+  "cc": "",
+  "name": "Senta Morley",
+  "batch": 1
+ },
+ {
+  "rank": 61,
+  "greeting": "Dear Dr. Zwane,",
+  "to": "absa@absa.co.za",
+  "cc": "",
+  "name": "Steven Zwane",
+  "batch": 1
+ },
+ {
+  "rank": 62,
+  "greeting": "Dear Ms. Henry,",
+  "to": "tutuwafoundation@standardbank.co.za",
+  "cc": "",
+  "name": "Tracey Henry",
+  "batch": 1
+ },
+ {
+  "rank": 63,
+  "greeting": "Dear Ms. Mgolodela,",
+  "to": "pressoffice@woolworths.co.za",
+  "cc": "",
+  "name": "Zinzi Mgolodela",
+  "batch": 1
+ },
+ {
+  "rank": 64,
+  "greeting": "Dear Ms. Parkar,",
+  "to": "arifa@wecbof.co.za",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Arifa Parkar",
+  "batch": 1
+ },
+ {
+  "rank": 65,
+  "greeting": "Dear Mr. Smit,",
+  "to": "albert@moreacampsbay.com",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Albert Smit",
+  "batch": 1
+ },
+ {
+  "rank": 66,
+  "greeting": "Dear Ms. Theunissen,",
+  "to": "firoza@moreahouse.com",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Firoza Theunissen",
+  "batch": 1
+ },
+ {
+  "rank": 67,
+  "greeting": "Dear Ms. Esteve,",
+  "to": "CEO@zip-zap.org",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Laurence Esteve",
+  "batch": 1
+ },
+ {
+  "rank": 68,
+  "greeting": "Dear Ms. Eagles,",
+  "to": "bridgette.eagles@gmail.com",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Bridgette Eagles",
+  "batch": 1
+ },
+ {
+  "rank": 69,
+  "greeting": "Dear Prof Naidoo,",
+  "to": "pam@global.co.za",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Pamela Naidoo",
+  "batch": 1
+ },
+ {
+  "rank": 70,
+  "greeting": "Dear Ms. Heshu,",
+  "to": "lindiweh@linamandlasolutions.co.za",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Lindiwe Heshu",
+  "batch": 1
+ },
+ {
+  "rank": 72,
+  "greeting": "Dear Mr. Corrignan,",
+  "to": "director@afcapetown.co.za",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Ga\u00ebl Corrignan",
+  "batch": 1
+ },
+ {
+  "rank": 73,
+  "greeting": "Dear Ms. Jacobs,",
+  "to": "anthea@stepsgroup.co.za",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Anthea Jacobs",
+  "batch": 1
+ },
+ {
+  "rank": 74,
+  "greeting": "Dear Ms. Arendse,",
+  "to": "sonja@bss-sa.com",
+  "cc": "jp.guyeu@aerotechnic-group.com",
+  "name": "Sonja Arendse",
+  "batch": 1
+ },
+ {
+  "rank": 75,
+  "greeting": "Dear Ms. Mokgokong,",
+  "to": "reception@ciholdings.co.za",
+  "cc": "",
+  "name": "Anna Mokgokong",
+  "batch": 1
+ },
+ {
+  "rank": 76,
+  "greeting": "Dear Ms. Radebe,",
+  "to": "bridgette@namf.co.za",
+  "cc": "",
+  "name": "Bridgette Radebe",
+  "batch": 1
+ },
+ {
+  "rank": 77,
+  "greeting": "Dear Mr. Ainslie,",
+  "to": "charles@thelearningtrust.org",
+  "cc": "",
+  "name": "Charles Ainslie",
+  "batch": 1
+ },
+ {
+  "rank": 78,
+  "greeting": "Dear Dr. Harrison,",
+  "to": "chandra@dgmt.co.za",
+  "cc": "",
+  "name": "David Harrison",
+  "batch": 1
+ },
+ {
+  "rank": 79,
+  "greeting": "Dear Mrs. Rupert,",
+  "to": "info@rupertmuseum.org",
+  "cc": "",
+  "name": "Gaynor Rupert",
+  "batch": 1
+ },
+ {
+  "rank": 80,
+  "greeting": "Dear Ms. Serobe,",
+  "to": "contactus@wiphold.com",
+  "cc": "",
+  "name": "Gloria Serobe",
+  "batch": 1
+ },
+ {
+  "rank": 81,
+  "greeting": "Dear Mr. Swartz,",
+  "to": "admin@nationbuilder.co.za",
+  "cc": "",
+  "name": "Ivan Swartz",
+  "batch": 1
+ },
+ {
+  "rank": 82,
+  "greeting": "Dear Ms. Safari,",
+  "to": "info@hcifoundation.co.za",
+  "cc": "",
+  "name": "Jamala Safari",
+  "batch": 1
+ },
+ {
+  "rank": 83,
+  "greeting": "Dear Ms. Jobson,",
+  "to": "info@dgmt.co.za",
+  "cc": "",
+  "name": "Janet Jobson",
+  "batch": 1
+ },
+ {
+  "rank": 84,
+  "greeting": "Dear Mr. Rupert,",
+  "to": "info@remgro.com",
+  "cc": "",
+  "name": "Johann Rupert",
+  "batch": 1
+ },
+ {
+  "rank": 85,
+  "greeting": "Dear Dr. Dippenaar,",
+  "to": "info@ferreirasearch.co.za",
+  "cc": "",
+  "name": "Laurie Dippenaar",
+  "batch": 1
+ },
+ {
+  "rank": 86,
+  "greeting": "Dear Ms. Solomons,",
+  "to": "liezel@amyfoundation.co.za",
+  "cc": "",
+  "name": "Liezel Solomons",
+  "batch": 1
+ },
+ {
+  "rank": 87,
+  "greeting": "Dear Ms. Whitfield-Fredman,",
+  "to": "info@acrra.org",
+  "cc": "",
+  "name": "Linda Whitfield-Fredman",
+  "batch": 1
+ },
+ {
+  "rank": 88,
+  "greeting": "Dear Mr. Shuttleworth,",
+  "to": "fellowships@shuttleworthfoundation.org",
+  "cc": "",
+  "name": "Mark Shuttleworth",
+  "batch": 1
+ },
+ {
+  "rank": 89,
+  "greeting": "Dear Mr. Moshal,",
+  "to": "southafrica@moshalprogram.org",
+  "cc": "",
+  "name": "Martin Moshal",
+  "batch": 2
+ },
+ {
+  "rank": 90,
+  "greeting": "Dear Ms. Slack,",
+  "to": "info@omt.org.za",
+  "cc": "",
+  "name": "Mary Slack",
+  "batch": 2
+ },
+ {
+  "rank": 91,
+  "greeting": "Dear Mr. Oppenheimer,",
+  "to": "info@omt.org.za",
+  "cc": "",
+  "name": "Nicky Oppenheimer",
+  "batch": 2
+ },
+ {
+  "rank": 92,
+  "greeting": "Dear Dr. Mabizela,",
+  "to": "charlene.jardine@allangrayorbis.org",
+  "cc": "",
+  "name": "Nontobeko Mabizela",
+  "batch": 2
+ },
+ {
+  "rank": 93,
+  "greeting": "Dear Mr. Leepile,",
+  "to": "info@novare.com",
+  "cc": "",
+  "name": "Ola Leepile",
+  "batch": 2
+ },
+ {
+  "rank": 94,
+  "greeting": "Dear Dr. Motsepe,",
+  "to": "info@motsepefoundation.org",
+  "cc": "",
+  "name": "Patrice Motsepe",
+  "batch": 2
+ },
+ {
+  "rank": 95,
+  "greeting": "Dear Dr. Moloi-Motsepe,",
+  "to": "info@motsepefoundation.org",
+  "cc": "",
+  "name": "Precious Moloi-Motsepe",
+  "batch": 2
+ },
+ {
+  "rank": 96,
+  "greeting": "Dear Mrs. Ackerman,",
+  "to": "dmuller@pnp.co.za",
+  "cc": "",
+  "name": "Wendy Ackerman",
+  "batch": 2
+ },
+ {
+  "rank": 97,
+  "greeting": "Dear Ms. Appelbaum,",
+  "to": "info@donaldgordon.org",
+  "cc": "",
+  "name": "Wendy Appelbaum",
+  "batch": 2
+ },
+ {
+  "rank": 98,
+  "greeting": "Dear Ms. Luhabe,",
+  "to": "info@definingmoments.co.za",
+  "cc": "",
+  "name": "Wendy Luhabe",
+  "batch": 2
+ },
+ {
+  "rank": 99,
+  "greeting": "Dear Ms. Ross,",
+  "to": "contactus@astralfoods.com",
+  "cc": "",
+  "name": "Sheila Ross",
+  "batch": 2
+ },
+ {
+  "rank": 100,
+  "greeting": "Dear Mr. Jonas,",
+  "to": "Mintirho@ccbagroup.com",
+  "cc": "",
+  "name": "Goitseone Jonas",
+  "batch": 2
+ },
+ {
+  "rank": 103,
+  "greeting": "Dear Ms. Xaba,",
+  "to": "info@savethechildren.org.za",
+  "cc": "",
+  "name": "Gugu Xaba",
+  "batch": 2
+ },
+ {
+  "rank": 104,
+  "greeting": "Dear Ms. Larkan,",
+  "to": "info@thanda.org",
+  "cc": "",
+  "name": "Angela Larkan",
+  "batch": 2
+ },
+ {
+  "rank": 105,
+  "greeting": "Dear Ms. Zelezniak,",
+  "to": "info@santashoebox.org.za",
+  "cc": "",
+  "name": "Deb Zelezniak",
+  "batch": 2
+ },
+ {
+  "rank": 106,
+  "greeting": "Dear Mr. Louw,",
+  "to": "info@breadlineafrica.org",
+  "cc": "",
+  "name": "Hennie Louw",
+  "batch": 2
+ },
+ {
+  "rank": 107,
+  "greeting": "Dear Ms. Wagner,",
+  "to": "director@breadlineafrica.org",
+  "cc": "",
+  "name": "Marion Wagner",
+  "batch": 2
+ },
+ {
+  "rank": 108,
+  "greeting": "Dear Dr. Nwaneri,",
+  "to": "info@sesameworkshop.org.za",
+  "cc": "",
+  "name": "Onyinye Nwaneri",
+  "batch": 2
+ },
+ {
+  "rank": 109,
+  "greeting": "Dear Ms. Trok,",
+  "to": "info@nalibali.org",
+  "cc": "",
+  "name": "Lorato Trok",
+  "batch": 2
+ },
+ {
+  "rank": 110,
+  "greeting": "Dear Ms. Rae,",
+  "to": "info@tomorrow.org.za",
+  "cc": "",
+  "name": "Taryn Rae",
+  "batch": 2
+ },
+ {
+  "rank": 111,
+  "greeting": "Dear Ms. Wijnberg,",
+  "to": "catherine.wijnberg@fetola.co.za",
+  "cc": "",
+  "name": "Catherine Wijnberg",
+  "batch": 2
+ },
+ {
+  "rank": 112,
+  "greeting": "Dear Mr. du Plessis,",
+  "to": "info@launchafrica.vc",
+  "cc": "",
+  "name": "Janade du Plessis",
+  "batch": 2
+ },
+ {
+  "rank": 113,
+  "greeting": "Dear Mr. Maforah,",
+  "to": "csi@samro.org.za",
+  "cc": "",
+  "name": "Lesego Maforah",
+  "batch": 2
+ },
+ {
+  "rank": 114,
+  "greeting": "Dear Ms. Jardini,",
+  "to": "hello@mpeh.co.za",
+  "cc": "",
+  "name": "Lucretia Jardini",
+  "batch": 2
+ },
+ {
+  "rank": 115,
+  "greeting": "Dear Mr. Rani,",
+  "to": "info@silulo.com",
+  "cc": "",
+  "name": "Luvuyo Rani",
+  "batch": 2
+ },
+ {
+  "rank": 116,
+  "greeting": "Dear Mr. Parker,",
+  "to": "conect@rlabs.org",
+  "cc": "",
+  "name": "Marlon Parker",
+  "batch": 2
+ },
+ {
+  "rank": 117,
+  "greeting": "Dear Mr. Jordaan,",
+  "to": "info@bankzero.co.za",
+  "cc": "",
+  "name": "Michael Jordaan",
+  "batch": 2
+ },
+ {
+  "rank": 118,
+  "greeting": "Dear Ms. Diedericks,",
+  "to": "finzaquaticsfitness@gmail.com",
+  "cc": "",
+  "name": "Nabilah Diedericks",
+  "batch": 2
+ },
+ {
+  "rank": 119,
+  "greeting": "Dear Ms. Rabana,",
+  "to": "rapelang@rekindlelearning.com",
+  "cc": "",
+  "name": "Rapelang Rabana",
+  "batch": 2
+ },
+ {
+  "rank": 120,
+  "greeting": "Dear Mr. Rohner,",
+  "to": "sales@r17ventures.com",
+  "cc": "",
+  "name": "Raphael Rohner",
+  "batch": 2
+ },
+ {
+  "rank": 121,
+  "greeting": "Dear Mr. Mbinda,",
+  "to": "info@siviwetours.com",
+  "cc": "",
+  "name": "Siviwe Mbinda",
+  "batch": 2
+ },
+ {
+  "rank": 122,
+  "greeting": "Dear Ms. Williams,",
+  "to": "info@design26foundation.org.za",
+  "cc": "",
+  "name": "Suraya Williams",
+  "batch": 2
+ },
+ {
+  "rank": 123,
+  "greeting": "Dear Mr. Thembekwayo,",
+  "to": "bookings@vusithembekwayo.com",
+  "cc": "",
+  "name": "Vusi Thembekwayo",
+  "batch": 2
+ },
+ {
+  "rank": 124,
+  "greeting": "Dear Mr. Wadee,",
+  "to": "suhail.wadee@ashrafulaid.org",
+  "cc": "",
+  "name": "Suhail Wadee",
+  "batch": 2
+ },
+ {
+  "rank": 125,
+  "greeting": "Dear Ms. Naidoo,",
+  "to": "naidooy@hivsa.com",
+  "cc": "",
+  "name": "Yashmita Naidoo",
+  "batch": 2
+ },
+ {
+  "rank": 126,
+  "greeting": "Dear Mr. Barrett,",
+  "to": "andrew@olico.org",
+  "cc": "",
+  "name": "Andrew Barrett",
+  "batch": 2
+ },
+ {
+  "rank": 127,
+  "greeting": "Dear Mr. Johnson,",
+  "to": "info@imaginescholar.org",
+  "cc": "",
+  "name": "Corey Johnson",
+  "batch": 2
+ },
+ {
+  "rank": 128,
+  "greeting": "Dear Ms. Mhlanga,",
+  "to": "thandekam@nkathutoedu.org.za",
+  "cc": "",
+  "name": "Thandeka Mhlanga",
+  "batch": 2
+ },
+ {
+  "rank": 129,
+  "greeting": "Dear Ms. Khanyile,",
+  "to": "thulilek@nkathutoedu.org.za",
+  "cc": "",
+  "name": "Thulile Khanyile",
+  "batch": 2
+ },
+ {
+  "rank": 130,
+  "greeting": "Dear Mr. Jaff,",
+  "to": "info@brightkidfoundation.co.za",
+  "cc": "",
+  "name": "Nicholas Jaff",
+  "batch": 2
+ },
+ {
+  "rank": 131,
+  "greeting": "Dear Ms. Bukula,",
+  "to": "info@operationhunger.org",
+  "cc": "",
+  "name": "Sandy Bukula",
+  "batch": 2
+ },
+ {
+  "rank": 132,
+  "greeting": "Dear Ms. Toussaint,",
+  "to": "ltoussaint@unjani.org",
+  "cc": "",
+  "name": "Lynda Toussaint",
+  "batch": 2
+ },
+ {
+  "rank": 133,
+  "greeting": "Dear Mr. Neerings,",
+  "to": "lerato@mealsonwheels.org.za",
+  "cc": "",
+  "name": "Tony Neerings",
+  "batch": 2
+ },
+ {
+  "rank": 134,
+  "greeting": "Dear Mr. Ressel,",
+  "to": "antonressel@gmail.com",
+  "cc": "",
+  "name": "Anton Ressel",
+  "batch": 2
+ },
+ {
+  "rank": 135,
+  "greeting": "Dear Mr. Jones,",
+  "to": "basil@handspringpuppet.co.za",
+  "cc": "",
+  "name": "Basil Jones",
+  "batch": 2
+ },
+ {
+  "rank": 136,
+  "greeting": "Dear Mr. Scott,",
+  "to": "info@kagiso.co.za",
+  "cc": "",
+  "name": "David Scott",
+  "batch": 2
+ },
+ {
+  "rank": 137,
+  "greeting": "Dear Ms. Anastasopoulos,",
+  "to": "suzelle.diy@gmail.com",
+  "cc": "",
+  "name": "Julia Anastasopoulos",
+  "batch": 2
+ },
+ {
+  "rank": 138,
+  "greeting": "Dear Mr. Manchidi,",
+  "to": "setlogane.manchidi@investec.co.za",
+  "cc": "",
+  "name": "Setlogane Manchidi",
+  "batch": 2
+ },
+ {
+  "rank": 139,
+  "greeting": "Dear Ms. Phillipus,",
+  "to": "hello@dkms-africa.org",
+  "cc": "",
+  "name": "Chandre Phillipus",
+  "batch": 2
+ },
+ {
+  "rank": 140,
+  "greeting": "Dear Mr. Dramat,",
+  "to": "helpdesk@cornerstone.ac.za",
+  "cc": "",
+  "name": "Abdul Basier Dramat",
+  "batch": 2
+ },
+ {
+  "rank": 141,
+  "greeting": "Dear Mr. Katz,",
+  "to": "info@boston.co.za",
+  "cc": "",
+  "name": "Ari Katz",
+  "batch": 2
+ },
+ {
+  "rank": 142,
+  "greeting": "Dear Ms. Fassler,",
+  "to": "barbara@stellenboschacademy.co.za",
+  "cc": "",
+  "name": "Barbara Fassler",
+  "batch": 2
+ },
+ {
+  "rank": 143,
+  "greeting": "Dear Mr. Lawry,",
+  "to": "c.lawry@sae.edu",
+  "cc": "",
+  "name": "Cameron Lawry",
+  "batch": 2
+ },
+ {
+  "rank": 144,
+  "greeting": "Dear Ms. Hickson-Mahony,",
+  "to": "info@cadadrama.com",
+  "cc": "",
+  "name": "Carey Hickson-Mahony",
+  "batch": 2
+ },
+ {
+  "rank": 145,
+  "greeting": "Dear Dr. Reinecke,",
+  "to": "info@hche.ac.za",
+  "cc": "",
+  "name": "Charlene Reinecke",
+  "batch": 2
+ },
+ {
+  "rank": 146,
+  "greeting": "Dear Ms. Sainsbury,",
+  "to": "deliasainsbury@wtschool.co.za",
+  "cc": "",
+  "name": "Delia Sainsbury",
+  "batch": 2
+ },
+ {
+  "rank": 147,
+  "greeting": "Dear Ms. Geustyn,",
+  "to": "egeustyn@ruthprowse.co.za",
+  "cc": "",
+  "name": "Eunice Geustyn",
+  "batch": 2
+ },
+ {
+  "rank": 148,
+  "greeting": "Dear Ms. Gebert,",
+  "to": "f.gebert@ctca.co.za",
+  "cc": "",
+  "name": "Francisca Gebert",
+  "batch": 2
+ },
+ {
+  "rank": 149,
+  "greeting": "Dear Ms. Kaplan,",
+  "to": "apply-cpt@theanimationschool.co.za",
+  "cc": "",
+  "name": "Lindi Kaplan",
+  "batch": 2
+ },
+ {
+  "rank": 150,
+  "greeting": "Dear Mr. Tattersall,",
+  "to": "info@immgsm.ac.za",
+  "cc": "",
+  "name": "Nigel Tattersall",
+  "batch": 2
+ },
+ {
+  "rank": 151,
+  "greeting": "Dear Mr. Martins,",
+  "to": "apply-cpt@theanimationschool.co.za",
+  "cc": "",
+  "name": "Nuno Martins",
+  "batch": 2
+ },
+ {
+  "rank": 152,
+  "greeting": "Dear Mr. Jackson,",
+  "to": "sjackson@emeris.ac.za",
+  "cc": "",
+  "name": "Saleem Jackson",
+  "batch": 2
+ },
+ {
+  "rank": 153,
+  "greeting": "Dear Dr. Nzimande,",
+  "to": "customercare@damelin.co.za",
+  "cc": "",
+  "name": "Sipho Nzimande",
+  "batch": 2
+ },
+ {
+  "rank": 154,
+  "greeting": "Dear Mr. Magatyana,",
+  "to": "bongani.magatyana@gmail.com",
+  "cc": "",
+  "name": "Bongani Magatyana",
+  "batch": 2
+ },
+ {
+  "rank": 155,
+  "greeting": "Dear Ms. Jenecker,",
+  "to": "hello@42unbreakable.org",
+  "cc": "",
+  "name": "Celita Jenecker",
+  "batch": 2
+ },
+ {
+  "rank": 156,
+  "greeting": "Dear Dr. Sooliman,",
+  "to": "info@giftofthegivers.org",
+  "cc": "",
+  "name": "Imtiaz Sooliman",
+  "batch": 2
+ },
+ {
+  "rank": 157,
+  "greeting": "Dear Mr. Kolisi,",
+  "to": "info@kolisifoundation.org",
+  "cc": "",
+  "name": "Siya Kolisi",
+  "batch": 2
+ },
+ {
+  "rank": 159,
+  "greeting": "Dear Mr. Cuyler,",
+  "to": "admin@thesozofoundation.org.za",
+  "cc": "",
+  "name": "Anton Cuyler",
+  "batch": 2
+ },
+ {
+  "rank": 160,
+  "greeting": "Dear Ms. Lindi,",
+  "to": "lindi@safilmacademy.org",
+  "cc": "",
+  "name": "Lindi",
+  "batch": 2
+ }
+]
